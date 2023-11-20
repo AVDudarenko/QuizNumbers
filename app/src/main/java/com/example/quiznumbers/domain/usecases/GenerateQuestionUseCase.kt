@@ -11,6 +11,6 @@ class GenerateQuestionUseCase(
 	}
 
 	private companion object {
-		private const val COUNT_OF_OPTIONS = 4
+		private const val COUNT_OF_OPTIONS = 6
 	}
 }
